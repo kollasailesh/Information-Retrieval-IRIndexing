@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/SAILESH/Desktop/Lemma-pk/ejml-0.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SAILESH/Desktop/Lemma-pk/javax.json.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SAILESH/Desktop/Lemma-pk/javax.json-api-1.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SAILESH/Desktop/Lemma-pk/joda-time.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SAILESH/Desktop/Lemma-pk/joda-time-2.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SAILESH/Desktop/Lemma-pk/jollyday.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SAILESH/Desktop/Lemma-pk/jollyday-0.4.7-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SAILESH/Desktop/Lemma-pk/stanford-corenlp-3.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SAILESH/Desktop/Lemma-pk/stanford-corenlp-3.5.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SAILESH/Desktop/Lemma-pk/stanford-corenlp-3.5.0-models.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SAILESH/Desktop/Lemma-pk/stanford-corenlp-3.5.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/SAILESH/Desktop/Lemma-pk/xom.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
